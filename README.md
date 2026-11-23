@@ -11,4 +11,5 @@ This topic focuses on a basic installation and configuration of Windows Server b
 
 **Enable VM (Hyper-V) and Create a New Virtual Machine**
 
-1. Press Win + R > Run `optionalfeatures` > Select/Check `Hyper-V` > Restart the pc. ![Alt text describing the image](images/screenshot.png)
+1. Press Win + R > Run `optionalfeatures` > Select/Check `Hyper-V`, click `OK` > Restart the pc.
+
