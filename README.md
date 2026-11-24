@@ -1,4 +1,4 @@
-## Welcome to Computer Networking Home Lab
+## Welcome to Computer Networking Home Lab with Cisco Packet Tracer
 ---
 ### Topics:
 
